@@ -44,3 +44,5 @@ The Baskin Robbins Sales Performance Dashboard translates raw transactional data
 ## 📷 Dashboard Preview
 ![Sales Dashboard](baskin_robbins Dashboard.png)
 
+<img width="1120" height="629" alt="baskin_robbins Dashboard" src="
+https://github.com/Devarapallisujith/Baskin-Robbins-Sales-Performance-Dashboard/blob/main/baskin_robbins%20"Dashboard.png
