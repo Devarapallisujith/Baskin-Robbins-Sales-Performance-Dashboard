@@ -42,7 +42,4 @@ To analyze:
 ## Conclusion
 The Baskin Robbins Sales Performance Dashboard translates raw transactional data into meaningful business intelligence. The project reflects strong capabilities in data transformation, DAX modeling, KPI design, and executive-level dashboard development.
 ## 📷 Dashboard Preview
-![Sales Dashboard](baskin_robbins Dashboard.png)
-
-<img width="1120" height="629" alt="baskin_robbins Dashboard" src="
-https://github.com/Devarapallisujith/Baskin-Robbins-Sales-Performance-Dashboard/blob/main/baskin_robbins%20"Dashboard.png
+<img width="960" height="540" alt="baskin_robbins Dashboard" src="https://github.com/user-attachments/assets/7a816b97-ab94-46e6-9624-130f10587ba4" />
